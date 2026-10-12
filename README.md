@@ -6,7 +6,7 @@ Capstone project website. Static site: `index.html` + `styles.css` + `images/`.
 
 1. **Create the repository**
    - Go to github.com and click **New repository**.
-   - Name it anything you like (e.g. `team2-capstone-site`). Keep it Public. Don't add a README/gitignore/license (you already have files).
+   - Name it anything you like (e.g. `team2-capstone-site`). Keep it Public. Don't add a README/gitignore/license (you already have files). 
    - Click **Create repository**.
 
 2. **Upload these files**
